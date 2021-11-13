@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/veggie-shopping/static/css/main.60dc997e.chunk.css",
+    "main.js": "/veggie-shopping/static/js/main.afadc44a.chunk.js",
+    "main.js.map": "/veggie-shopping/static/js/main.afadc44a.chunk.js.map",
+    "runtime-main.js": "/veggie-shopping/static/js/runtime-main.055a1e48.js",
+    "runtime-main.js.map": "/veggie-shopping/static/js/runtime-main.055a1e48.js.map",
+    "static/js/2.f8efdd82.chunk.js": "/veggie-shopping/static/js/2.f8efdd82.chunk.js",
+    "static/js/2.f8efdd82.chunk.js.map": "/veggie-shopping/static/js/2.f8efdd82.chunk.js.map",
+    "index.html": "/veggie-shopping/index.html",
+    "static/css/main.60dc997e.chunk.css.map": "/veggie-shopping/static/css/main.60dc997e.chunk.css.map",
+    "static/js/2.f8efdd82.chunk.js.LICENSE.txt": "/veggie-shopping/static/js/2.f8efdd82.chunk.js.LICENSE.txt",
+    "static/media/about.bcbd2bb5.jpg": "/veggie-shopping/static/media/about.bcbd2bb5.jpg",
+    "static/media/HomePage.css": "/veggie-shopping/static/media/test.1e15b90a.png",
+    "static/media/img2.e6f56594.png": "/veggie-shopping/static/media/img2.e6f56594.png",
+    "static/media/logo1.189f9189.png": "/veggie-shopping/static/media/logo1.189f9189.png",
+    "static/media/tes.67d12cec.jpg": "/veggie-shopping/static/media/tes.67d12cec.jpg",
+    "static/media/v1.1f3d31a4.jpg": "/veggie-shopping/static/media/v1.1f3d31a4.jpg",
+    "static/media/v2.ee4a517f.jpg": "/veggie-shopping/static/media/v2.ee4a517f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.055a1e48.js",
+    "static/js/2.f8efdd82.chunk.js",
+    "static/css/main.60dc997e.chunk.css",
+    "static/js/main.afadc44a.chunk.js"
+  ]
+}
